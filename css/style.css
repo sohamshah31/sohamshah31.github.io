@@ -34,3 +34,17 @@ max-height: 100%;}
 	background-attachment: fixed;
 
 }
+
+.familyp {max-width: 100%;
+display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+ .youtube {display: block;
+    margin-left: auto;
+    margin-right: auto
+
+ .wobble {
+  -webkit-animation-duration: 5s;
+  animation-duration: 5s;
+}
