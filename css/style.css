@@ -1,0 +1,36 @@
+.profilepic {
+	max-width: 100%
+}
+
+.iconspace {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.card{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.social-icon:hover {text-decoration: none;
+	color: magenta	;}
+
+
+.bodycolor {background-color: #cce6ff;
+background-image: url("../img/112233.jpg");
+background-attachment: fixed;
+
+}
+
+.active-link {
+	color: orange;
+}
+
+.resume {max-width: 100%;
+
+max-height: 100%;}
+
+.bannery {width: 100%;
+	background-attachment: fixed;
+
+}
